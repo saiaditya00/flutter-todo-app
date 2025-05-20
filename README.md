@@ -1,19 +1,16 @@
-Flutter Todo App
-Overview
-The Flutter Todo App is a fully functional task management application that enables users to create, update, complete, and delete to-do items. Built using Flutter and Dart, the app provides a simple and efficient way for users to manage their daily activities through an intuitive and visually appealing user interface.
+✅ Flutter Todo App
+A fully functional Todo App built using Flutter, allowing users to add, update, delete, and track their daily tasks with ease. Designed with a focus on performance and user experience, this app is perfect for managing tasks on the go.
 
-Features
-Add Tasks
-Users can add new to-do items using a clean and simple input form.
+🚀 Features
+🆕 Add new tasks
 
-Edit Tasks
-Existing tasks can be edited to update the task content or deadline.
+✏️ Edit/update existing tasks
 
-Delete Tasks
-Tasks can be removed permanently when no longer needed.
+🗑️ Delete completed or unwanted tasks
 
+✅ Mark tasks as completed
 
+📋 View all, completed, and pending tasks
 
-
-
+🎨 Clean and intuitive user interface
 
